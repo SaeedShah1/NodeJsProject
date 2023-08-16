@@ -1,0 +1,24 @@
+{
+  "name": "nodejsproject",
+  "version": "1.0.0",
+  "description": "This is node js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaeedShah1/NodeJsProject.git"
+  },
+  "author": "Saeed Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaeedShah1/NodeJsProject/issues"
+  },
+  "homepage": "https://github.com/SaeedShah1/NodeJsProject#readme",
+  "dependencies": {
+    "nodemailer": "^6.9.4",
+    "nodemon": "^3.0.1"
+  }
+}
